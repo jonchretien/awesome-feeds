@@ -39,6 +39,7 @@ node scripts/generate-opml.js
 + [MacRumors](https://www.macrumors.com) ([feed](http://feeds.macrumors.com/MacRumors-Front))
 + [MacStories](https://www.macstories.net/) ([feed](https://www.macstories.net/feed/))
 + [Parker Ortolani](https://parkerortolani.blog/) ([feed](https://parker.micro.blog/feed.xml))
++ [Storefront Brief](https://fortune-insight.onrender.com/shop/brief/index.html) ([feed](https://fortune-insight.onrender.com/shop/brief/feed.xml))
 + [Useful Mac](https://usefulmac.com/) ([feed](https://usefulmac.com/rss))
 
 ## Career
