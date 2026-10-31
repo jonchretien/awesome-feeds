@@ -292,6 +292,7 @@ node scripts/generate-opml.js
 + [Glenn Fleishman](https://glog.glennf.com/) ([feed](https://glog.glennf.com/?format=rss))
 + [Jeff Miller's Blog](http://talkfast.org/) ([feed](http://feeds.feedburner.com/jmillerinc))
 + [Jeffrey Paul](https://sneak.berlin/) ([feed](https://sneak.berlin/feed.xml))
++ [Joho no Todai (English technology news)](https://joho-todai.com/en/) ([feed](https://joho-todai.com/en/rss/))
 + [Katy DeCorah](https://katydecorah.com/) ([feed](https://katydecorah.com/feed.xml))
 + [Lireo Designs](https://www.lireo.com) ([feed](https://www.lireo.com/feed/))
 + [Liss is More](https://www.caseyliss.com) ([feed](https://www.caseyliss.com/rss))
